@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "738240938166",
+    "firebase_url": "https://yeni-33b36-default-rtdb.firebaseio.com",
+    "project_id": "yeni-33b36",
+    "storage_bucket": "yeni-33b36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738240938166:android:3c6a802b222fcbb2286617",
+        "android_client_info": {
+          "package_name": "com.example.newfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738240938166-gf5bvhet6vetmdg6b4i0pv34q0dp431m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.newfirebase",
+            "certificate_hash": "51c34668dc624d88d25612ffeee588dffe2d6f67"
+          }
+        },
+        {
+          "client_id": "738240938166-t0v9r26ahdua1dnk310t8k5e7nqoghrs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEDKGMPiAFzNQvPNpPR5m1nIFP0ztvMFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738240938166-t0v9r26ahdua1dnk310t8k5e7nqoghrs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
